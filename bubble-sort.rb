@@ -14,7 +14,6 @@ def bubble_sort(arr)
   return arr
 end
 
-
 def bubble_sort_by(arr)
   limit = arr.length
   while true do
