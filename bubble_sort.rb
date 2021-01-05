@@ -1,4 +1,3 @@
-
 def bubble_sort(arr)
   limit = arr.length
   loop do
